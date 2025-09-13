@@ -8,7 +8,7 @@
 
 **All roads lead back to building a strong foundation in Mathematics.**
 
-## Indiana University | BS Mathematics
+## [Indiana University | Mathematics, B.S.](https://online.iu.edu/degrees/mathematics-bs-undergraduate.html)
 Admitted August 2025.
 - Core (Required)
 	- [x] Calculus I, 215 (fulfilled by prior coursework)
