@@ -9,6 +9,7 @@
 **All roads lead back to building a strong foundation in Mathematics.**
 
 ## Indiana University | BS Mathematics
+Admitted August 2025.
 - Core (Required)
 	- [x] Calculus I, 215 (fulfilled by prior coursework)
 	- [x] Calculus II, 216 (fulfilled by prior coursework)
