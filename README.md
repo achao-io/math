@@ -8,7 +8,7 @@
 
 **All roads lead back to building a strong foundation in Mathematics.**
 
-## [Indiana University | Mathematics, B.S.](https://online.iu.edu/degrees/mathematics-bs-undergraduate.html)
+## Indiana University | [Mathematics, B.S.](https://online.iu.edu/degrees/mathematics-bs-undergraduate.html)
 Admitted August 2025.
 - Core (Required)
 	- [x] Calculus I, 215 (fulfilled by prior coursework)
@@ -50,13 +50,9 @@ Admitted August 2025.
 - [ ] Multivariable Calculus
 - [ ] Methods of Proof
 - [ ] Discrete Mathematics
-- [ ] Abstract Algebra
-- [ ] Differential Equations
 - [ ] Mathematics for Machine Learning
-
-
-## What does a strong foundation in Math consist of?
-- Algebra, Geometry, Trigonometry, Precalculus, Calculus, Linear Algebra, Probability, Statistics, Discrete
+- [ ] Differential Equations
+- [ ] Abstract Algebra
 
 ## 2025-05-01
 - Incorporated Math Academy into my Daily Practice. 30 points a day. It's backed by data, one of the best ways to re-learn the foundations of Math.
@@ -74,7 +70,6 @@ Admitted August 2025.
 
 ## 2025-07-26
 - The path is long, but rewarding. Find joy in the process.
-
 
 ## 2025-08-17
 I'm starting to see how beautiful math is. It's like there is a "reason" for things. There is a truth. Things came from observations. And those blossomed into useful applications and uses in real life. Like from flipping a coin and intuitively expecting 50/50, but only with enough sample sizes. Which led to the question of is independence necessary to do probability? Boom, Markov with his work on proving you don't need independent events to do probability, you could do it with dependent events. Which then played a part in modeling "how much" uranium-235 do you need for a neutron bomb? When does the chain reaction reach critical point? Markov Chain. Another one, PageRank in the early 90s. Another one, how many times to shuffle a deck (riffle shuffle) to be "random enough". It's crazy how you can build on a simple observation, flipping a coin. Or approximating things geometrically and build off of it. It's like a mental fortress of knowledge, a way of understanding the world and how it works. To get answers to "why". So fucking beautiful.
