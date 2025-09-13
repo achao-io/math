@@ -1,5 +1,5 @@
 # Thoughts on Learning Math
-- Mathematical maturity is the intellectual sophistication that comes from rigorous quantitative study - fluency with abstract reasoning, comfort with proof-based thinking, and the ability to model complex systems. This foundation enables professionals to think systematically about uncertainty, build robust analytical frameworks, and make principled decisions in high-stakes environments where intuition alone fails.
+- Mathematical maturity provides the tools to think systematically about complex problems, the mental acuity to handle abstract reasoning, comfort with rigorous analysis, and ability to build reliable models. These skills enable one to tackle uncertainty, model reality with mathematical frameworks, and make sound decisions in high-stakes situations where intuition may not be enough.
 
 ## Why re-learn Math?
 - In late 2024, I explored trading options as a way of generating income (primarily selling call/put spreads and CSPs). As I went further into it, I realized my mathematical foundation was weak, and hindered my learning. Tried reading Natenburg, but felt like I was missing something.
