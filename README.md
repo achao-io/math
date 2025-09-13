@@ -13,8 +13,8 @@ Admitted August 2025.
 - Core (Required)
 	- [x] Calculus I, 215 (fulfilled by prior coursework)
 	- [x] Calculus II, 216 (fulfilled by prior coursework)
-	- [ ] Calculus III, 311 ([Sagara](https://www.ratemyprofessors.com/professor/2693456)) - currently taking
-	- [ ] Linear Algebra, 303 ([Thomas](https://www.ratemyprofessors.com/professor/1482197)) - currently taking
+	- [ ] Calculus III, 311 ([Sagara](https://www.ratemyprofessors.com/professor/2693456)) - (in progress)
+	- [ ] Linear Algebra, 303 ([Thomas](https://www.ratemyprofessors.com/professor/1482197)) - (in progress)
 	- [ ] Bridge to Abstract Mathematics, 393
 	- [ ] Introduction To Modern Algebra I, 403
 	- [ ] Introduction To Analysis I, 413 ([Udita](https://www.ratemyprofessors.com/professor/1735828))
