@@ -27,19 +27,14 @@ Admitted August 2025.
 	- [ ] Introduction to Mathematical Statistics, 466 ([Sagara](https://www.ratemyprofessors.com/professor/2693456))
 	- [ ] The Mathematics of Finance, 451
 - Schedule
-	- 2025 Fall: Calculus III, Linear Algebra
-	- 2025 Winter: Differential Equations, Elements of Statistical Inference
-	- 2026 Spring: Bridge to Abstract Mathematics, Introduction to Probability I
-	- 2026 Summer: Mathematical Models I, Senior Seminar
-	- 2026 Fall: Modern Algebra I, Mathematical Statistics
-	- 2026 Winter: Analysis I, Mathematics of Finance
-	- 2027 Spring: 
-	- 2027 Summer: 
-
+	- [ ] 2025 Fall: Calculus III, Linear Algebra
+	- [ ] 2025 Winter: Differential Equations, Elements of Statistical Inference
+	- [ ] 2026 Spring: Bridge to Abstract Mathematics, Introduction to Probability I
+	- [ ] 2026 Summer: Mathematical Models I, Senior Seminar
+	- [ ] 2026 Fall: Modern Algebra I, Mathematical Statistics
+	- [ ] 2026 Winter: Analysis I, Mathematics of Finance
 - Resources
-	- https://www.linkedin.com/pulse/indiana-university-east-online-bs-mathematics-bryon-jordan-eupec/
-		- Calc III and Linear Algebra together was about 30 hours at its peak.
-		- Bridge to Abstract Mathematics (starting in week 3,) Probability, Modern Algebra, Real Analysis all took a lot of time and practice. These were probably 18-25 hours a week each.
+	- [Bryon Jordan's experience](https://www.linkedin.com/pulse/indiana-university-east-online-bs-mathematics-bryon-jordan-eupec/)
 
 ## Math Academy Progress
 - [x] Mathematical Foundations I (Completed 2025-05-01)
