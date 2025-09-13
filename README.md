@@ -1,0 +1,115 @@
+# Thoughts on Learning Math
+
+"Calculus is a ==fundamental component of Artificial Intelligence/Machine Learning==, as is Linear Algebra, Probability & Statistics, and Discrete Mathematics"
+
+"It's everywhere. Partial differential equations, which are advanced calculus, are used extensively in mathematical finance. Matrices and Linear Algebra concepts are used extensively in ML/AI. As others have mentioned, options strategies rely HEAVILY on calculus. Pricing IS calculus. Stochastic processes are a branch of calculus. The list goes on and on. Both calculus and linear algebra are building blocks in math, especially the former. I'd struggle to find a field that doesn't rely on calculus at some point. Even logic uses calculus with propositional calculus. Calculus is everywhere."
+
+"Mathematicians and scientists and engineers use concepts of calculus in all sorts of contexts and use jargon and notations that, without your learning about calculus, would be completely inscrutable to you. The study of calculus is normally aimed at ==giving you the "mathematical sophistication" to relate to such more advanced work==."
+
+"So I need to assume a certain amount of mathematical literacy, and it is not immediately obvious where to draw this line. I’ve basically decided to assume that ==someone who wants to be a serious option trader should have picked up the mathematics of a good high school education. This includes algebra, logarithms, and exponentiation and basic calculus.==" (Sinclair)
+
+"Calculus is crucial for quantitative trading because it provides the ==mathematical tools to analyze and model how market variables change over time==, enabling traders to understand trends, calculate optimal entry and exit points, and price complex financial derivatives, particularly through the concept of "stochastic calculus" which deals with random market fluctuations; essentially, ==it allows for sophisticated quantitative models to be built for making informed trading decisions in dynamic market environments.=="
+
+## Why learn (re-learn) Math?
+
+- In late 2024, I explored trading options as a way of generating income. As I went further into it, I realized my mathematical foundation was weak, and hindered my learning.
+- In early 2025, I was trading Solana/meme coins I realized having a strong base in mathematics, statistics, probability, would help me to trade more profitably, think more clearly, focus on finding an edge, testing it, and building a model/system around a thesis.
+- In early 2025, I realized more and more how profound LLMs and AI have changed the way we work and solve problems. In order to understand AI/ML/LLMs at a baseline level, one needs mathematical literacy.
+
+==All roads lead back to building a strong foundation in Mathematics.==
+
+## What does a strong foundation in Math consist of?
+Algebra, Geometry, Trigonometry, Calculus, Linear Algebra, Discrete Math, Probability, Statistics
+
+## 2025-03-19
+Pick Math back up! Specifically, finish the MIT Single Variable Calculus course!
+
+## 2025-05-01
+I incorporated Math Academy into my Daily Practice. 30 points a day. It's backed by data, one of the best ways to re-learn the foundations of Math.
+
+## 2025-06-17
+progress, 64% through MF2
+
+## 2025-07-23
+- Completed MFII, now on MFIII! It's not easy, but I'm making progress.
+
+## 2025-07-24
+- I just had a call with Tom Burdo, a HF recruiter. It's clear, that the places I want to work only hire people with Math/CS backgrounds. You need to show you are quantitatively adept. You need to be able to pass the interview.
+- If you want to get into [UChicago Financial Math](https://finmath.uchicago.edu/online-program/curriculum/), you need to prove that you can succeed in this program.
+- e.g. the [Quant Foundation Series](https://finmath.uchicago.edu/admissions/quant-foundation-series/) or the [Baruch Pre-MFE](https://mfe.baruch.cuny.edu/pre-mfe-program/)
+
+## 2025-07-26
+The path is long, but rewarding. Find joy in the process.
+
+Math Academy
+- [x] Mathematical Foundations I (Completed 2025-05-01)
+- [x] Mathematical Foundations II (Completed 2025-07-20)
+- [ ] Mathematical Foundations III (21% | 2025-08-10, 41% | 2025-09-11))
+- [ ] Linear Algebra
+- [ ] Probability & Statistics
+- [ ] Multivariable Calculus
+- [ ] Methods of Proof
+- [ ] Discrete Mathematics
+- [ ] Abstract Algebra
+- [ ] Differential Equations
+- [ ] Mathematics for Machine Learning
+
+Indiana University
+- BS Mathematics (8/1/2025 I got in!)
+	- Core (Required)
+		- [x] Calculus I, 215
+		- [x] Calculus II, 216
+		- [ ] Calculus III, 311 ([Sagara](https://www.ratemyprofessors.com/professor/2693456)) - currently taking
+		- [ ] Linear Algebra, 303 ([Thomas](https://www.ratemyprofessors.com/professor/1482197)) - currently taking
+		- [ ] Bridge to Abstract Mathematics, 393
+		- [ ] Introduction To Modern Algebra I, 403
+		- [ ] Introduction To Analysis I, 413 ([Udita](https://www.ratemyprofessors.com/professor/1735828))
+		- [ ] Mathematical Models I, 447 ([Young](https://www.ratemyprofessors.com/professor/2104974))
+		- [ ] Senior Seminar
+	- Elective Choices (15 Units, 5 courses in total)
+		- [ ] Elementary Differential Equations, 313 ([Young](https://www.ratemyprofessors.com/professor/2104974))
+		- [ ] Elements of Statistical Inference, 366 ([Sagara](https://www.ratemyprofessors.com/professor/2693456))
+		- [ ] Introduction to Probability I, 463
+		- [ ] Introduction to Mathematical Statistics, 466 ([Sagara](https://www.ratemyprofessors.com/professor/2693456))
+
+		- [ ] The Mathematics of Finance, 451
+		- [ ] Calculus 4 (Vector), 312 ([Young](https://www.ratemyprofessors.com/professor/2104974))
+		- [ ] Elementary Computational Methods, 371
+		- [ ] Survey of Statistics, 368
+
+- Potential Schedule
+	- 2025 Fall: Calculus III, Linear Algebra
+	- 2025 Winter: Differential Equations, Elements of Statistical Inference
+	- 2026 Spring: Bridge to Abstract Mathematics, Introduction to Probability I
+	- 2026 Summer: Mathematical Models I, Senior Seminar
+	- 2026 Fall: Modern Algebra I, Mathematical Statistics
+	- 2026 Winter: Analysis I, Mathematics of Finance
+	- 2027 Spring: 
+	- 2027 Summer: 
+
+- Resources
+	- https://www.linkedin.com/pulse/indiana-university-east-online-bs-mathematics-bryon-jordan-eupec/
+		- Calc III and Linear Algebra together was about 30 hours at its peak.
+		- Bridge to Abstract Mathematics (starting in week 3,) Probability, Modern Algebra, Real Analysis all took a lot of time and practice. These were probably 18-25 hours a week each.
+
+## 2025-08-17
+I'm starting to see how beautiful math is. It's like there is a "reason" for things. There is a truth. Things came from observations. And those blossomed into useful applications and uses in real life. Like from flipping a coin and intuitively expecting 50/50, but only with enough sample sizes. Which led to the question of is independence necessary to do probability? Boom, Markov with his work on proving you don't need independent events to do probability, you could do it with dependent events. Which then played a part in modeling "how much" uranium-235 do you need for a neutron bomb? When does the chain reaction reach critical point? Markov Chain. Another one, PageRank in the early 90s. Another one, how many times to shuffle a deck (riffle shuffle) to be "random enough". It's crazy how you can build on a simple observation, flipping a coin. Or approximating things geometrically and build off of it. It's like a mental fortress of knowledge, a way of understanding the world and how it works. To get answers to "why". So fucking beautiful.
+
+Literally tearing up, like it "clicks".
+
+https://www.youtube.com/watch?v=KZeIEiBrT_w&ab_channel=Veritasium
+
+## 2025-09-11
+Another "when it clicks" observation. I'm learning about using Cofactor Expansion to find the Determinant of an `n x n` matrix, and it just blew my mind that you can use **any** row or column, multiply each element by its respective cofactor, and you get the same value - the determinant for that matrix.
+
+ANY row, ANY column. For a `n x n` matrix, that means there are `n!` ways to get the same determinant.
+
+That just feels like black magic. It feels like this mathematical property of matrices was meant to be "found". We didn't create this property, we didn't design this property. It "emerged". More archeology than invention.
+
+Insane.
+
+> *The mathematician Eugene Wigner wrote about "the unreasonable effectiveness of mathematics in the natural sciences" - why should abstract mathematical relationships have such perfect predictive power in physics? Why should the universe "speak" mathematics so fluently?*
+
+- Euler's identity: e^(iπ) + 1 = 0 (connecting the five most fundamental constants in a single equation)
+- The fact that prime numbers, despite seeming random, follow deep statistical patterns (what patterns?)
+- How the same mathematical structures (like differential equations) describe everything from planetary orbits to quantum mechanics to population dynamics
