@@ -1,5 +1,5 @@
 # Thoughts on Learning Math
-- Mathematical maturity provides the tools to think systematically about complex problems, the mental acuity to handle abstract reasoning, comfort with rigorous analysis, and ability to build reliable models. These skills enable one to tackle uncertainty, model reality with mathematical frameworks, and make sound decisions in high-stakes situations where intuition may not be enough.
+- Mathematical maturity develops several critical capabilities: systematic thinking about complex problems, mental acuity for abstract reasoning, comfort with rigorous analysis, and skill in building reliable models. These tools enable one to navigate uncertainty, construct mathematical frameworks that model reality, and make sound decisions in high-stakes situations where intuition proves insufficient.
 
 ## Why re-learn Math?
 - In late 2024, I explored trading options as a way of generating income (primarily selling call/put spreads and CSPs). As I went further into it, I realized my mathematical foundation was weak, and hindered my learning. Tried reading Natenburg, but felt like I was missing something.
