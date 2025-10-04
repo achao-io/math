@@ -87,3 +87,4 @@ Insane.
 - Euler's identity: e^(iπ) + 1 = 0 (connecting the five most fundamental constants in a single equation)
 - The fact that prime numbers, despite seeming random, follow deep statistical patterns (what patterns?)
 - How the same mathematical structures (like differential equations) describe everything from planetary orbits to quantum mechanics to population dynamics
+
